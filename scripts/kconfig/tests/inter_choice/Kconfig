@@ -1,5 +1,5 @@
 config MODULES
-	def_bool y
+	def_bool n
 	option modules
 
 choice
